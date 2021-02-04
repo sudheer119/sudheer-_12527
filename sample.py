@@ -12,3 +12,6 @@ print("Sai amruth")
 for i in range(0,10):
   print(i)
 print("Hello word")
+a=10
+b=10
+print(a+b)
