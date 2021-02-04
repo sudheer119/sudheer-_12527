@@ -5,3 +5,9 @@ print("sudheer")
 print("KLH HYDERABAD")
 print("kl university")
 print("Sai amruth")
+
+
+
+
+for i in range(0,10):
+  print(i)
